@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "DARE ME",
+  "base_artist": "IVE",
+  "createdAt": "2025-12-03T04:47:32.468302Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dare Me",
+      "artist": "The Pointer Sisters",
+      "has_synced": true,
+      "path": "select/01_Dare_Me_The_Pointer_Sisters.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dare Me",
+      "artist": "The Pointer Sisters",
+      "has_synced": false,
+      "path": "select/02_Dare_Me_The_Pointer_Sisters.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dare Me - 12\" Dance Mix",
+      "artist": "The Pointer Sisters",
+      "has_synced": true,
+      "path": "select/03_Dare_Me_-_12__Dance_Mix_The_Pointer_Sisters.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dare Me (12'' Dance Mix)",
+      "artist": "Pointer Sisters",
+      "has_synced": true,
+      "path": "select/04_Dare_Me_(12''_Dance_Mix)_Pointer_Sisters.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dare Me - Single Version",
+      "artist": "The Pointer Sisters",
+      "has_synced": true,
+      "path": "select/05_Dare_Me_-_Single_Version_The_Pointer_Sisters.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dare Me (Single Version)",
+      "artist": "Pointer Sisters",
+      "has_synced": true,
+      "path": "select/06_Dare_Me_(Single_Version)_Pointer_Sisters.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dare Me",
+      "artist": "Dan Winter vs. Mayth",
+      "has_synced": false,
+      "path": "select/07_Dare_Me_Dan_Winter_vs._Mayth.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dare Me (12″ dance mix)",
+      "artist": "The Pointer Sisters",
+      "has_synced": true,
+      "path": "select/08_Dare_Me_(12′′_dance_mix)_The_Pointer_Sisters.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dare Me (single version)",
+      "artist": "The Pointer Sisters",
+      "has_synced": true,
+      "path": "select/09_Dare_Me_(single_version)_The_Pointer_Sisters.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dare Me",
+      "artist": "Young Fathers",
+      "has_synced": true,
+      "path": "select/10_Dare_Me_Young_Fathers.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dare Me",
+      "artist": "Junior Jack",
+      "has_synced": false,
+      "path": "select/11_Dare_Me_Junior_Jack.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dare Me",
+      "artist": "Beach Fossils",
+      "has_synced": true,
+      "path": "select/12_Dare_Me_Beach_Fossils.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dare Me",
+      "artist": "Beach Fossils",
+      "has_synced": true,
+      "path": "select/13_Dare_Me_Beach_Fossils.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dare Me - Radio Edit",
+      "artist": "Sean Finn feat. Paul Jockey",
+      "has_synced": true,
+      "path": "select/14_Dare_Me_-_Radio_Edit_Sean_Finn_feat._Paul_Jockey.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Dare Me (Radio Edit)",
+      "artist": "Sean Finn; Paul Jockey",
+      "has_synced": true,
+      "path": "select/15_Dare_Me_(Radio_Edit)_Sean_Finn;_Paul_Jockey.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Dare Me",
+      "artist": "Soror Dolorosa",
+      "has_synced": false,
+      "path": "select/16_Dare_Me_Soror_Dolorosa.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DARE ME",
+      "artist": "IVE",
+      "has_synced": false,
+      "path": "select/pl_01_DARE_ME_IVE.txt"
+    }
+  ]
+}
